@@ -1,6 +1,6 @@
 ## Turn-Based Text-Based Game
 
-Selamat datang di permainan berbasis teks "Turn-Based Game"! Dalam permainan ini, Anda akan mengendalikan karakter Anda untuk mengalahkan musuh dalam pertarungan berbasis giliran.
+Program ini adalah game turn based sederhana berbasis konsol, dimana player dapat memilih pilihan yang dilakukan untuk karakter yang dimainkannya. Tujuan game ini adalah player harus mengalahkan musuh.
 
 ### Cara Bermain
 1. Setiap giliran, Anda memiliki tiga pilihan:
@@ -29,3 +29,8 @@ Program ini telah mengimplementasikan empat konsep dasar dalam Pemrograman Beror
 ![Alt Text](img/2.png)
 ![Alt Text](img/3.png)
 ![Alt Text](img/4.png)
+
+
+### Keterangan
+Nama :  Muhammad Rizki Al-Fathir
+NIM  :  1227050093
