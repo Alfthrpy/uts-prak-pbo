@@ -25,7 +25,7 @@ Program ini telah mengimplementasikan empat konsep dasar dalam Pemrograman Beror
 
 
 ###Screenshot program
-![Alt Text](img/1.jpg)
-![Alt Text](img/2.jpg)
-![Alt Text](img/3.jpg)
-![Alt Text](img/4.jpg)
+![Alt Text](img/1.png)
+![Alt Text](img/2.png)
+![Alt Text](img/3.png)
+![Alt Text](img/4.png)
